@@ -58,3 +58,4 @@ D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\refint\
 D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.pdb
 D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.genruntimeconfig.cache
 D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\ref\MvcTodoApp.dll
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.sourcelink.json
