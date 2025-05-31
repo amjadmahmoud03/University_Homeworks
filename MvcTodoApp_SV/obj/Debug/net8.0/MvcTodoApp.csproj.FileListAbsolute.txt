@@ -1,0 +1,60 @@
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\bin\Debug\net8.0\appsettings.Development.json
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\bin\Debug\net8.0\appsettings.json
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\bin\Debug\net8.0\MvcTodoApp.staticwebassets.runtime.json
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\bin\Debug\net8.0\MvcTodoApp.exe
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\bin\Debug\net8.0\MvcTodoApp.deps.json
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\bin\Debug\net8.0\MvcTodoApp.runtimeconfig.json
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\bin\Debug\net8.0\MvcTodoApp.dll
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\bin\Debug\net8.0\MvcTodoApp.pdb
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.AssemblyInfoInputs.cache
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.AssemblyInfo.cs
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.csproj.CoreCompileInputs.cache
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.RazorAssemblyInfo.cache
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.RazorAssemblyInfo.cs
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\staticwebassets.build.json
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\staticwebassets.development.json
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\staticwebassets\msbuild.MvcTodoApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\staticwebassets\msbuild.build.MvcTodoApp.props
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MvcTodoApp.props
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MvcTodoApp.props
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\scopedcss\bundle\MvcTodoApp.styles.css
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\scopedcss\projectbundle\MvcTodoApp.bundle.scp.css
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.dll
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\refint\MvcTodoApp.dll
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.pdb
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.genruntimeconfig.cache
+D:\Study\Software Engeneering 2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\ref\MvcTodoApp.dll
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\bin\Debug\net8.0\appsettings.Development.json
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\bin\Debug\net8.0\appsettings.json
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\bin\Debug\net8.0\MvcTodoApp.staticwebassets.runtime.json
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\bin\Debug\net8.0\MvcTodoApp.exe
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\bin\Debug\net8.0\MvcTodoApp.deps.json
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\bin\Debug\net8.0\MvcTodoApp.runtimeconfig.json
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\bin\Debug\net8.0\MvcTodoApp.dll
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\bin\Debug\net8.0\MvcTodoApp.pdb
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.AssemblyInfoInputs.cache
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.AssemblyInfo.cs
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.csproj.CoreCompileInputs.cache
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.MvcApplicationPartsAssemblyInfo.cache
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.RazorAssemblyInfo.cache
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.RazorAssemblyInfo.cs
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\staticwebassets.build.json
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\staticwebassets.development.json
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\staticwebassets\msbuild.MvcTodoApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\staticwebassets\msbuild.build.MvcTodoApp.props
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MvcTodoApp.props
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MvcTodoApp.props
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\scopedcss\bundle\MvcTodoApp.styles.css
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\scopedcss\projectbundle\MvcTodoApp.bundle.scp.css
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.dll
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\refint\MvcTodoApp.dll
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.pdb
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\MvcTodoApp.genruntimeconfig.cache
+D:\Study\Software_Engeneering_2\Homework2\MvcTodoApp_SV\obj\Debug\net8.0\ref\MvcTodoApp.dll
