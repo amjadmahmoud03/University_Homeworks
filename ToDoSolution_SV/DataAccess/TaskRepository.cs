@@ -24,15 +24,23 @@ namespace NTierTodoApp.DataAccess
 
         public TaskItem GetById(int id)
         {
-            return tasks.FirstOrDefault(t => t.Id == id);
+            var task = tasks.FirstOrDefault(t => t.Id == id);
+            if (task == null)
+            {
+                throw new InvalidOperationException($"No task found with ID {id}");
+            }
+            return task;
         }
+
 
         // TODO: تنفيذ دالة حذف المهمة
         public void Delete(int id)
         {
-            // TODO: ابحث عن المهمة باستخدام id
-
-            // TODO: إذا كانت المهمة موجودة، قم بإزالتها من القائمة
+            var task = tasks.FirstOrDefault(t => t.Id == id);
+            if (task != null)
+            {
+                tasks.Remove(task);
+            }
         }
     }
 }

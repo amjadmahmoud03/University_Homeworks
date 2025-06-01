@@ -1,0 +1,12 @@
+D:\Study\Software_Engeneering_2\Homework2\ToDoSolution_SV\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\Study\Software_Engeneering_2\Homework2\ToDoSolution_SV\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\Study\Software_Engeneering_2\Homework2\ToDoSolution_SV\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\Study\Software_Engeneering_2\Homework2\ToDoSolution_SV\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\Software_Engeneering_2\Homework2\ToDoSolution_SV\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\Study\Software_Engeneering_2\Homework2\ToDoSolution_SV\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\Study\Software_Engeneering_2\Homework2\ToDoSolution_SV\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Study\Software_Engeneering_2\Homework2\ToDoSolution_SV\DataAccess\obj\Debug\net8.0\DataAccess.sourcelink.json
+D:\Study\Software_Engeneering_2\Homework2\ToDoSolution_SV\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\Study\Software_Engeneering_2\Homework2\ToDoSolution_SV\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\Study\Software_Engeneering_2\Homework2\ToDoSolution_SV\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\Study\Software_Engeneering_2\Homework2\ToDoSolution_SV\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
